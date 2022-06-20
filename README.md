@@ -7,4 +7,3 @@ The purpose of Refactor-Seo is to optimize the syntax and readability of the cod
 ![ReadMe1 screenshot](https://user-images.githubusercontent.com/100255864/173237541-7937b1fa-42c7-4bf4-8c89-f04a6e0a627f.png)
 
 # Deployment Link
-
